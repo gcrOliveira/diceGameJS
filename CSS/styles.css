@@ -1,0 +1,26 @@
+/* Tag selectors */
+body{
+  background-color: #151D3B;
+}
+/* Class Selectors */
+.Title{
+
+}
+.Title h1{
+  color: #6EBF8B;
+  font-family: "Pacifico", sans-serif;
+  font-size: 3rem;
+}
+.DiceBox h2{
+  color: #D82148;
+}
+.Footer h4{
+  color:#DADBBD;
+  font-size: 1rem;
+}
+.Footer:hover{font-size: 1.05rem;}
+.Dices{
+  width: 15rem;
+  padding: 1rem 0 0 1rem;
+}
+/* ID selectors */
